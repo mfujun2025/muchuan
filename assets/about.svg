@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="木船工坊">
+  <rect width="480" height="360" fill="#f3e8da"/>
+  <rect x="60" y="70" width="360" height="200" rx="10" fill="#e9f3f1"/>
+  <path d="M60 200 L240 110 L420 200" stroke="#9c6b3f" stroke-width="6" fill="none"/>
+  <rect x="60" y="200" width="360" height="70" fill="#9c6b3f" opacity="0.25"/>
+  <circle cx="240" cy="150" r="26" fill="#9c6b3f"/>
+  <path d="M120 270 h240" stroke="#6f4a23" stroke-width="8" stroke-linecap="round"/>
+  <rect x="150" y="290" width="180" height="40" rx="8" fill="#1f6f6b"/>
+</svg>

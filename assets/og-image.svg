@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="木船.cn">
+  <rect width="1200" height="630" fill="#221a12"/>
+  <rect width="1200" height="630" fill="#1f6f6b" opacity="0.12"/>
+  <text x="80" y="250" font-family="serif" font-size="120" font-weight="700" fill="#fbf8f3">木船.cn</text>
+  <text x="84" y="320" font-family="sans-serif" font-size="38" fill="#e3c9a8">传承匠心 · 木造船艺</text>
+  <text x="84" y="380" font-family="sans-serif" font-size="30" fill="#cfc3b4">传统木船制造 · 定制木艺 · 养护维修</text>
+  <g transform="translate(900 360)">
+    <path d="M0 40 L200 40 L180 90 L20 90 Z" fill="#9c6b3f"/>
+    <rect x="98" y="-80" width="6" height="120" rx="3" fill="#fbf8f3"/>
+    <path d="M104 -70 Q150 -20 104 30 Z" fill="#fbf8f3"/>
+  </g>
+  <circle cx="600" cy="540" r="6" fill="#9c6b3f"/>
+</svg>

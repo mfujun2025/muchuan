@@ -1,0 +1,17 @@
+{
+  "name": "木船.cn — 木造船艺",
+  "short_name": "木船",
+  "description": "传统木船制造、定制木艺与养护维修。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbf8f3",
+  "theme_color": "#9c6b3f",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

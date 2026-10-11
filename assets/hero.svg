@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 460" role="img" aria-label="木船航行插画">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fbf8f3"/>
+      <stop offset="1" stop-color="#e9f3f1"/>
+    </linearGradient>
+    <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b9824c"/>
+      <stop offset="1" stop-color="#8a5a2c"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="460" fill="url(#sky)"/>
+  <!-- 太阳 -->
+  <circle cx="480" cy="90" r="42" fill="#f4d9b0" opacity="0.8"/>
+  <!-- 远山 -->
+  <path d="M0 300 Q120 240 240 300 T520 300 T600 300 V460 H0 Z" fill="#d8e7e3" opacity="0.7"/>
+  <!-- 船体 -->
+  <g transform="translate(150 250)">
+    <path d="M0 60 L300 60 L268 130 L32 130 Z" fill="url(#wood)"/>
+    <path d="M0 60 L300 60 L292 78 L8 78 Z" fill="#6f4a23"/>
+    <!-- 船板纹理 -->
+    <path d="M20 92 H280 M14 108 H286" stroke="#6f4a23" stroke-width="2" opacity="0.5"/>
+    <!-- 桅杆与帆 -->
+    <rect x="150" y="-120" width="6" height="190" rx="3" fill="#6f4a23"/>
+    <path d="M156 -110 Q210 -40 156 40 Z" fill="#fbf8f3" stroke="#9c6b3f" stroke-width="3"/>
+    <path d="M144 -110 Q90 -40 144 40 Z" fill="#f3e8da" stroke="#9c6b3f" stroke-width="3"/>
+    <path d="M150 -120 l-14 18 14 6 14-18z" fill="#9c6b3f"/>
+  </g>
+  <!-- 波浪 -->
+  <path d="M0 360 C80 340 140 380 220 360 S360 340 460 360 600 380 600 360 V460 H0 Z" fill="#1f6f6b"/>
+  <path d="M0 392 C80 372 140 412 220 392 S360 372 460 392 600 412 600 392 V460 H0 Z" fill="#165856"/>
+  <path d="M40 420 C100 408 150 432 210 420" stroke="#e3f0ee" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.6"/>
+</svg>

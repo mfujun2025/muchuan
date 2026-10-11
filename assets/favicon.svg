@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="木船">
+  <circle cx="24" cy="24" r="23" fill="#9c6b3f"/>
+  <path d="M9 27h30l-4 7H13z" fill="#fbf8f3"/>
+  <path d="M24 9v15M24 13l9 4M24 18l-8 3" stroke="#fbf8f3" stroke-width="2.4" stroke-linecap="round" fill="none"/>
+</svg>
