@@ -579,6 +579,27 @@ p {
   margin-top: 0;
 }
 
+/* ---------- 文章页：待核实标注 / 文末导航 ---------- */
+.verify {
+  font-size: 0.9em;
+  color: var(--color-primary-dark);
+  background: var(--color-accent-soft);
+  padding: 1px 6px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+.article-nav {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-top: 40px;
+  padding-top: 26px;
+  border-top: 1px solid var(--color-line);
+}
+.article-body p img {
+  margin: 1.4em auto;
+}
+
 /* ---------- 联系页 ---------- */
 .contact-grid {
   display: grid;

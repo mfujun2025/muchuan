@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://xn--4pv951d.cn/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://xn--4pv951d.cn/knowledge.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://xn--4pv951d.cn/about.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://xn--4pv951d.cn/products.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://xn--4pv951d.cn/news.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://xn--4pv951d.cn/news-1.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://xn--4pv951d.cn/news-2.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://xn--4pv951d.cn/news-3.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://xn--4pv951d.cn/contact.html</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/products.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://xn--4pv951d.cn/news.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://xn--4pv951d.cn/contact.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/muniu-chuzhong-qianli-molang.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/quanzhou-songdai-haichuan.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/jiangnan-shuixiang-muniu.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/muniu-bei-gangchuan-tiqu.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/chuantong-zaochuan-gongyi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/mutuan-jiegou-jiexi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/tongyou-masi-huifeng.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/zaochuan-yongcai-xuanze.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/mucai-ganzao-yubian.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/muniu-yingyong-lingyu.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/dingzhi-muniu-xuanze.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/muniu-xiangmu-jishi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/mutuan-baoyang-shouce.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/gumunian-xiufu-fanxin.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://xn--4pv951d.cn/articles/jiyi-chuan-shu-jicheng.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
